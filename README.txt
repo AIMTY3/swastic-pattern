@@ -10,3 +10,4 @@ for n=7; we will get this type of shape.  #don't forget to increase size of swas
        *     *
        *     *
  * * * *     *
+ 
